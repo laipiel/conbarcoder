@@ -1,0 +1,5 @@
+- Implement CalculateTax().
+- Make it so that you can scan the items over and over without touching the computer.
+- Learn TKinter and make GUI more efficient and look nicer.
+- Learn pysqlite and make the code more efficient; do it better way.
+- Think of a better way of listing private variables.
